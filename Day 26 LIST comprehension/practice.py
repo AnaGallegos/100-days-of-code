@@ -11,4 +11,6 @@ short_names = [name for name in names if len(name) < 5]
 upper_short_names = [name.upper() for name in names]
 
 squared_numbers = [number **2 for number in numbers]
-print(squared_numbers)
+
+even_numbers = [number for number in numbers if number % 2 == 0]
+print(even_numbers)
