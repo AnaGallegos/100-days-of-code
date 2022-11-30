@@ -63,6 +63,7 @@ View the [full course outline](https://training.talkpython.fm/courses/explore_10
 
 <details>
 <summary>Click to toggle to see all the projects made in the course</summary>
+
 ## 👶 | Beginner *(skipped)*
 - Day 7: Hangman
 - Day 8: Function Parameters & Caesar Cipher
