@@ -9,7 +9,7 @@
 
 What you'll see below is a log for every project I've done. View the [full course outline](https://www.udemy.com/course/100-days-of-code/).
 
-## Beginner 👶 *(mostly skipped)*
+## Beginner 🥚 *(mostly skipped)*
 | Day | Project                   | Progress                                                                                                              | Link                                                                                                                                                               |
 |-----|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 7   | Hangman!                  | Refresh on planning code, importing modules                                                                           | [Repo](https://github.com/AnaGallegos/100-days-of-code/blob/main/Day%207%20Hangman/Hangman/main.py)                                                            |
