@@ -35,7 +35,7 @@ What you'll see below is a log for every project I've done. View the [full cours
 | 31    | Flash Card Study app!                        | Apply knowledge from the last 7 days: Work with files, pandas, tkinter.                                                                                     | [Repo](https://github.com/AnaGallegos/100-days-of-code/blob/main/Day%2031%20Capstone%20Project/main.py)    |                                                                                                 |
 
 
-## Intermediate++ 🐤
+## Intermediate++ 🐔
 
 ### SMTP, APIs 📨
 | Day   | Project                    | Progress                                                                                                                                                         | Link                                                                                                                             |
@@ -73,7 +73,7 @@ What you'll see below is a log for every project I've done. View the [full cours
 | 57  | Flask: Blog I         | Jinja, URL building, dynamic HTML Pages.                                                                                                | [Repo] |
 | 58  | Bootstrap: Tindog     | Five hour long 🙇🏻‍ web foundations lesson where we refresh on Bootstrap's magic abilities and create a website from scratch!          | [Repo] |
 
-## Advanced  🐔
+## Advanced  🦅
 ### Web dev with Flask 🌷 cont. 
 | Day | Project                  | Progress                                                                                                                                                    | Link                                                                                                               |
 |-----|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
