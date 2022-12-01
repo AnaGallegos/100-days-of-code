@@ -1,10 +1,8 @@
 ## Course Summary
 
-#100DaysOfCode in Python is your perfect companion to take the 100 days of code challenge and be successful. This course is 1-part video lesson, 2-parts guided projects. You will be amazed at how many Python technologies and libraries you learn on this journey. Join the course and get started.
+#100DaysOfCode in Python is the perfect companion to take the 100 days of code challenge and be successful. This course is 1-part video lesson, 2-parts guided projects. 100 days of code is not just about the commitment. The true power and effectiveness is in having a guide and pursuing the "right-sized" projects. 
 
-## What's this course about and how is it different?
-
-100 days of code is not just about the commitment. The true power and effectiveness is in having a guide and pursuing the "right-sized" projects. That’s why we have 33 deeply practical projects. Each paired with 20-40 minute lessons at the beginning of the project.
+![hello_world_title3](https://user-images.githubusercontent.com/113164779/205054174-4647c35f-a298-4f2e-9899-46a83273857f.gif)
 
 
 What you'll see below is a log for every project I've done. View the [full course outline](https://www.udemy.com/course/100-days-of-code/).
