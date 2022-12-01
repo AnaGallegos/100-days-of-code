@@ -1,23 +1,13 @@
 ## Course Summary
 
-#100DaysOfCode in Python is your perfect companion to take the 100 days of code challenge and be successful. This course is 1-part video lesson, 2-parts guided projects. You will be amazed at how many Python technologies and libraries you learn on this journey. Join the course and get started.
+#100DaysOfCode in Python is the perfect companion to take the 100 days of code challenge and be successful. This course is 1-part video lesson, 2-parts guided projects. 100 days of code is not just about the commitment. The true power and effectiveness is in having a guide and pursuing the "right-sized" projects. 
 
-## What's this course about and how is it different?
-
-100 days of code is not just about the commitment. The true power and effectiveness is in having a guide and pursuing the "right-sized" projects. That’s why we have 33 deeply practical projects. Each paired with 20-40 minute lessons at the beginning of the project.
+![hello_world_title3](https://user-images.githubusercontent.com/113164779/205054174-4647c35f-a298-4f2e-9899-46a83273857f.gif)
 
 
 What you'll see below is a log for every project I've done. View the [full course outline](https://www.udemy.com/course/100-days-of-code/).
 
-
-
-## 👶 | Beginner *(skipped)*
-- Day 7: Hangman
-- Day 8: Function Parameters & Caesar Cipher
-- Day 9: Dictionaries, Nesting and the Secret Auction
-- Day 13: Debugging: How to Find and Fix Errors in your Code
-
-## Beginner 🐣 *(mostly skipped)*
+## Beginner 🥚 *(mostly skipped)*
 | Day | Project                   | Progress                                                                                                              | Link                                                                                                                                                               |
 |-----|---------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 7   | Hangman!                  | Refresh on planning code, importing modules                                                                           | [Repo](https://github.com/AnaGallegos/100-days-of-code/blob/main/Day%207%20Hangman/Hangman/main.py)                                                            |
@@ -43,7 +33,7 @@ What you'll see below is a log for every project I've done. View the [full cours
 | 31    | Flash Card Study app!                        | Apply knowledge from the last 7 days: Work with files, pandas, tkinter.                                                                                     | [Repo](https://github.com/AnaGallegos/100-days-of-code/blob/main/Day%2031%20Capstone%20Project/main.py)    |                                                                                                 |
 
 
-## Intermediate++ 🐤
+## Intermediate++ 🐔
 
 ### SMTP, APIs 📨
 | Day   | Project                    | Progress                                                                                                                                                         | Link                                                                                                                             |
@@ -62,7 +52,7 @@ What you'll see below is a log for every project I've done. View the [full cours
 | 46    | Spotify Playlist           | Apply knowledge from the last few days to scrape data from top 100 songs to then create a Spotify Playlist using the Spotipy library.                            | [Repo]py)          |
 | 47    | Price Tracker              | Use beautiful 🥣 to scrape data, keep track of data and use smtp to alert the user when the threshold has been reached.                                          | [Repo]             |
 
-### 💻 Web Scraping with Selenium (Deprecated Code) 👩🏻‍
+###  Web Scraping with Selenium (Deprecated Code) 💻
 | Day | Project                   | Progress                                                                                                                                                        | Link                                                                                                                    |
 |-----|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | 48  | Browser Bot with Selenium | Intro to Selenium Library. The lesson unfortunately is currently out of date so I watched the video, did some basic practice but didn't complete the challenge. | [Repo] |
@@ -72,7 +62,7 @@ What you'll see below is a log for every project I've done. View the [full cours
 | 52  | Bot: Instagram            | ...                                                                                                                                                             | [Repo] |
 | 53  | Bot: Data Entry           | ...                                                                                                                                                             | [Repo] |
 
-### Web dev with Flask 🌶
+### Web dev with Flask 🌷
 | Day | Project               | Progress                                                                                                                                | Link                                                                                                              |
 |-----|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | 54  | Intro to Flask        | Refresh on Flask! I worked on Flask a looong time ago, so it's nice to use it again and learn new things about it I didn't know before. | [Repo] |
@@ -81,8 +71,8 @@ What you'll see below is a log for every project I've done. View the [full cours
 | 57  | Flask: Blog I         | Jinja, URL building, dynamic HTML Pages.                                                                                                | [Repo] |
 | 58  | Bootstrap: Tindog     | Five hour long 🙇🏻‍ web foundations lesson where we refresh on Bootstrap's magic abilities and create a website from scratch!          | [Repo] |
 
-## Advanced  🐔
-### Web dev with Flask 🌶 cont. 
+## Advanced  🦅
+### Web dev with Flask 🌷 cont. 
 | Day | Project                  | Progress                                                                                                                                                    | Link                                                                                                               |
 |-----|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 59  | Blog II                  | Apply Flask, Bootstrap to make a revamped blog with better styling.                                                                                         | [Repo] |
@@ -115,7 +105,7 @@ What you'll see below is a log for every project I've done. View the [full cours
 
 
 <details>
-<summary>## ⚙ Tools and Technologies Covered</summary>
+<summary>⚙ Tools and Technologies Covered</summary>
 
 
 
