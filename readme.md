@@ -115,7 +115,7 @@ What you'll see below is a log for every project I've done. View the [full cours
 
 
 <details>
-<summary>## ⚙ Tools and Technologies Covered</summary>
+<summary>⚙ Tools and Technologies Covered</summary>
 
 
 
