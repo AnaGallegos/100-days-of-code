@@ -20,7 +20,7 @@ response = requests.get(OMW_ENDPOINT, params=weather_params)
 response.raise_for_status()
 data = response.json()
 
-hourly_weather = data['hourly'][:12]
+hourly_weather = data['hourly'][7:19]
 weather_data = []
 rain = False
 for hour in hourly_weather:
@@ -34,7 +34,7 @@ if rain:
     message = client.messages \
         .create(
         body="It will rain today. Don't forget to use an umbrella ☔️",
-        from_='',
-        to=''
+        from_='Twilio Phone Number',
+        to='Twilio Phone Number'
     )
-    print(message.status)
+    print(message.status) 
