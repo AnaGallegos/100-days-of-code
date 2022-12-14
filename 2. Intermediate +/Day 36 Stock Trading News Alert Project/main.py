@@ -78,8 +78,4 @@ if diff_percent > 5:
 
 
 
-    #T  Send each article as a separate message via Twilio.
-
-
-
 
