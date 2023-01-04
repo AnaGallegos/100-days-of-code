@@ -36,7 +36,7 @@ See sample webpages:
 
 * To the top of your page,add an image.
 
-###Inside the personal CV webpage:
+### Inside the personal CV webpage:
 
 * In index.html,add section 'Work experience' and make a table showing year and job.
 
